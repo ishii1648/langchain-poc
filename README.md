@@ -1,1 +1,1 @@
-# langchain-example
+# langchain-poc

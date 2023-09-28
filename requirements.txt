@@ -1,0 +1,7 @@
+openai
+chromadb
+langchain
+bs4
+python-dotenv
+tiktoken
+google-search-results
